@@ -1,0 +1,16 @@
+{
+  "name": "threat-modeling",
+  "version": "0.1.0",
+  "description": "Assets, entry points and trust boundaries, then concrete threats across twelve domains with mitigations and tests.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/threat-modeling",
+  "repository": "https://github.com/nvv-dev/threat-modeling",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
